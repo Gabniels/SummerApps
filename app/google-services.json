@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866087464923",
+    "project_id": "summer-77563",
+    "storage_bucket": "summer-77563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866087464923:android:df38c57036b6a949df81fe",
+        "android_client_info": {
+          "package_name": "com.example.summer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866087464923-q3gojjra2vvs4td1ph0q8g2clhnf7jhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwtxx7_wlH6oqhISiFwznSxRQl3SasCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866087464923-q3gojjra2vvs4td1ph0q8g2clhnf7jhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
